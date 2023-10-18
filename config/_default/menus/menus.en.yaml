@@ -390,7 +390,7 @@ main:
   - name: Upgrade Between Agent Minor Versions
     url: agent/versions/upgrade_between_agent_minor_versions
     parent: agent_versions
-    weight: 903  
+    weight: 903
   - name: Troubleshooting
     url: agent/troubleshooting/
     parent: agent
